@@ -1,4 +1,9 @@
 #!/usr/bin/env python2.7
+# need to do
+# 1) rewrite writeFlow. Save u/v flow separately
+# 2) generate input output txt files
+#    flow-first-images.txt data/flow-second-images.txt data/flow-outputs.txt
+
 
 from __future__ import print_function
 
